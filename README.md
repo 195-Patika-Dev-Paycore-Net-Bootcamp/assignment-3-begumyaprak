@@ -9,7 +9,7 @@ assignment-3-begumyaprak created by GitHub Classroom
 Swagger Screenshots
 
 ### All Methods
-![1](https://user-images.githubusercontent.com/23440294/188571577-b7064ecd-cb1e-4883-ab6c-afc084fcabbb.PNG)
+![swaggerall](https://user-images.githubusercontent.com/23440294/188619021-10043a76-d2a5-4842-bb63-526e2c768215.PNG)
 
 ### Container Methods
 ![2](https://user-images.githubusercontent.com/23440294/188571582-d5cdd5d4-b7ca-4ab6-a75e-8792af4eff27.PNG)
@@ -30,6 +30,9 @@ Swagger Screenshots
 ![9](https://user-images.githubusercontent.com/23440294/188571950-4ba3bced-076f-45fb-bffe-43e196c1c131.PNG)
 
 ![10](https://user-images.githubusercontent.com/23440294/188571952-75a67ccc-0efd-4835-b06f-019b5bc62694.PNG)
+
+### Clustering Method
+![cluster](https://user-images.githubusercontent.com/23440294/188619111-00edf3f1-3505-48f6-87fb-b6d7c15466f5.PNG)
 
 ### Postgre Database Screenshots 
 
